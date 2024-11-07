@@ -1,4 +1,4 @@
-### 1-Up Workshop: Project Automation with Makefiles
+# 1-Up Workshop: Project Automation with Makefiles
 
 ---
 
